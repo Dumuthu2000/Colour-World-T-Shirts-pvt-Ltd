@@ -63,6 +63,16 @@ namespace Colour_World__T_Shirts__pvt___Ltd.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_back_button_30 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-back-button-30", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_clear_40 {
             get {
                 object obj = ResourceManager.GetObject("icons8-clear-40", resourceCulture);
@@ -136,6 +146,16 @@ namespace Colour_World__T_Shirts__pvt___Ltd.Properties {
         internal static System.Drawing.Bitmap icons8_edit_property_40 {
             get {
                 object obj = ResourceManager.GetObject("icons8-edit-property-40", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_eject_30 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-eject-30", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

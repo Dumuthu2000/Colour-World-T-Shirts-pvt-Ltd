@@ -44,6 +44,7 @@
             this.passwordTxt = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.loginBtn = new System.Windows.Forms.Button();
+            this.directoryEntry1 = new System.DirectoryServices.DirectoryEntry();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -282,5 +283,6 @@
         private System.Windows.Forms.TextBox passwordTxt;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button loginBtn;
+        private System.DirectoryServices.DirectoryEntry directoryEntry1;
     }
 }
